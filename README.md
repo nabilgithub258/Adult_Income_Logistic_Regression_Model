@@ -25,7 +25,7 @@ The dataset used for this project is the "Adult" dataset from the UCI Machine Le
 - Required R packages (listed in `Adult_Income_logistic_regression_model.R`)
 
 ## Results
-The Logistic Regression model predicts whether an individual's income exceeds $50K/year with reasonable accuracy. Detailed results and evaluation metrics are provided in the `model_training.Rmd` R Markdown file.
+The Logistic Regression model predicts whether an individual's income exceeds $50K/year with reasonable accuracy. Detailed results and evaluation metrics are provided in the `adult_income_lmg.pdf` R Markdown converted to pdf file for easier read.
 
 ## Contributing
 Contributions are welcome! Please create a pull request or open an issue to discuss changes.
