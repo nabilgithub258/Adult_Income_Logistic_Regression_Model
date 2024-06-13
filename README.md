@@ -1,0 +1,1 @@
+This project aims to predict the income level of individuals using a logistic regression model. The income is categorized into two classes: <=50K and >50K per year. The model is built and trained using a dataset containing various demographic and employment-related features.
